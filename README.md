@@ -28,11 +28,10 @@ Virulent fungal plant pathogens are a serious threat to crop productivity and ar
 
 Sumit Jangra1, 2*, Priti1, 2, Vrantika Chaudhary2, Apurva Mishra3, Ram C. Yadav2, and Neelam R. Yadav2
 
-_1 Advanced Centre for Plant Virology, Division of Plant Pathology, ICAR-Indian Agricultural Research Institute, New Delhi-110012 India, sumit.jangra712@gmail.com (SJ), preetikapoor01@gmail.com (P)
-2 Department of Molecular Biology, Biotechnology, and Bioinformatics, CCS Haryana Agricultural University, Hisar-125004 India, vrantika@gmail.com (VC), rcyadavbiotech@yahoo.com (RCY), nryadav58@gmail.com (NRY)
-3 Department of Microbiology and Molecular Genetics, Arsuaga-Vazquez Lab, UC Davis, One Shields Ave, Davis, CA-95616 USA, apurvagyan@gmail.com
-*Corresponding author Email: sumit.jangra712@gmail.com
-_
+_1 Advanced Centre for Plant Virology, Division of Plant Pathology, ICAR-Indian Agricultural Research Institute, New Delhi-110012 India, sumit.jangra712@gmail.com (SJ), preetikapoor01@gmail.com (P)_
+_2 Department of Molecular Biology, Biotechnology, and Bioinformatics, CCS Haryana Agricultural University, Hisar-125004 India, vrantika@gmail.com (VC), rcyadavbiotech@yahoo.com (RCY), nryadav58@gmail.com (NRY)_
+_3 Department of Microbiology and Molecular Genetics, Arsuaga-Vazquez Lab, UC Davis, One Shields Ave, Davis, CA-95616 USA, apurvagyan@gmail.com_
+_*Corresponding author Email: sumit.jangra712@gmail.com_
 
 **Abstract**
 
@@ -45,11 +44,11 @@ Nutritional stress is affecting over two billion people worldwide. As the Mmajor
 
 Sumit Jangra1, 2*, Priti1, 2, Vrantika Chaudhary2, Apurva Mishra3, Ram C. Yadav2, and Neelam R. Yadav2
 
-_1 Advanced Centre for Plant Virology, Division of Plant Pathology, ICAR-Indian Agricultural Research Institute, New Delhi-110012 India, sumit.jangra712@gmail.com (SJ), preetikapoor01@gmail.com (P)
-2 Department of Molecular Biology, Biotechnology, and Bioinformatics, CCS Haryana Agricultural University, Hisar-125004 India, vrantika@gmail.com (VC), rcyadavbiotech@yahoo.com (RCY), nryadav58@gmail.com (NRY)
-3 Department of Microbiology and Molecular Genetics, Arsuaga-Vazquez Lab, UC Davis, One Shields Ave, Davis, CA-95616 USA, apurvagyan@gmail.com
-*Corresponding author Email: sumit.jangra712@gmail.com
-_
+_1 Advanced Centre for Plant Virology, Division of Plant Pathology, ICAR-Indian Agricultural Research Institute, New Delhi-110012 India, sumit.jangra712@gmail.com (SJ), preetikapoor01@gmail.com (P)_
+_2 Department of Molecular Biology, Biotechnology, and Bioinformatics, CCS Haryana Agricultural University, Hisar-125004 India, vrantika@gmail.com (VC), rcyadavbiotech@yahoo.com (RCY), nryadav58@gmail.com (NRY)_
+_3 Department of Microbiology and Molecular Genetics, Arsuaga-Vazquez Lab, UC Davis, One Shields Ave, Davis, CA-95616 USA, apurvagyan@gmail.com_
+_*Corresponding author Email: sumit.jangra712@gmail.com_
+
 
 **Abstract**
 
