@@ -6,7 +6,9 @@ The following page contains the additional information for the Commmon Applicati
 1. The abstract for a published, peer-reviewed research paper
 2. The abstract for a peer-reviewed paper pending publication
 3. The abstract for a research paper in the process of review for publication
-4. My research poster from the Research in Science and Engineering Program
+4. My research poster from the Research in Science and Engineering (RISE) Program at Boston University
+
+I am also due to publish research from my internship at a topological molecular biology laboratory at UC Davis. The research for the second abstract and third abstracts, and my UC Davis internship research, would have been published earlier but was delayed due to COVID-19.
 
 
 ### Abstract for Publication 1
