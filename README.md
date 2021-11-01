@@ -55,7 +55,8 @@ _*Corresponding author: apurvagyan@gmail.com_
 
 In past research, promoters have been found to initiate RNA transcription bidirectionally, meaning that nascent RNA reads exist both in the downstream sense and upstream antisense directions. In addition to this, downstream and hybrid exons (exons that can be used as first and internal exons) have been found to have an increase in usage in comparison to upstream and first exons only (exons that can only be used as first exons), respectively. However, this behavior has been largely unexplored in alternative promoters, and is therefore of great interest for the advancement of the field, and the purpose of our study.
 
-Research Poster for Research in Science and Engineering (RISE) Program at Boston University
+Research Poster for Research in Science and Engineering (RISE) Program at Boston University:
+
 <img src="docs/RISE_Research_Poster.png" alt="RISE Program Research Poster">
 
 A pdf version of my RISE Research Poster to open and reference can be found here: <a href="docs/RISE_Research_Poster.pdf" target="_blank">PDF.</a>
