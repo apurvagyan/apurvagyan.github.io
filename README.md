@@ -80,3 +80,6 @@ CRISPR/Cas mediated editing has revolutionized the way we engineer plant genomes
 
 ### Research Poster for Research in Science and Engineering (RISE) Program at Boston University
 
+<a href="apurvagyan.github.io/Apurva Mishra - RISE Final Research Poster.pdf" target="_blank">PDF.</a>
+
+
