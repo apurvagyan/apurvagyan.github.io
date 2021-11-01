@@ -1,4 +1,4 @@
-# Apurva Mishra | Additional Information
+# Apurva Mishra - Additional Information
 
 ## Overview of Additional Information
 
