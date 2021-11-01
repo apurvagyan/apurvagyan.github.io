@@ -4,9 +4,9 @@
 
 The following page contains the additional information for the Commmon Application that I would like to share. This includes:
 1. The abstract for a published, peer-reviewed research publication
-2. The abstract for a peer-reviewed paper pending publication
-3. The abstract for a research paper in the process of review for publication
-4. My research poster from the Research in Science and Engineering (RISE) Program at Boston University
+2. The abstract for a research paper in the process of review for publication
+3. My research project and poster from the Research in Science and Engineering (RISE) Program at Boston University
+4. The abstract for a peer-reviewed paper pending publication
 
 I am also due to publish research from my internship at a topological molecular biology laboratory at UC Davis. The research for the second abstract and third abstracts, and my UC Davis internship research, would have been published earlier but was delayed due to COVID-19.
 
