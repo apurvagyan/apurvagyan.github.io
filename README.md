@@ -30,6 +30,39 @@ Virulent fungal plant pathogens are a serious threat to crop productivity and ar
 
 ### Publication 2
 
+**Promoter selection for optimized CRISPR-Cas-mediated genome editing in plants**
+
+Rita Sharma (1), Apurva Mishra (2), Archit Gupta (1) and Farhanur Rahman (1)
+
+_1 Department of Biological Sciences, Birla Institute of Technology and Science (BITS), Pilani, Rajasthan, India_
+
+_2 Department of Microbiology and Molecular Genetics, Arsuaga-Vazquez Lab, UC Davis, One Shields Ave, Davis, CA-95616 USA, apurvagyan@gmail.com_
+
+**Abstract**
+
+CRISPR/Cas mediated editing has revolutionized the way we engineer plant genomes. Many studies have been carried out in the past few years towards optimization of the genome editing constructs. The choice of promoters used to drive gRNA and cas9 expression is critical to achieve high editing efficiency. We have collated the information about different types of promoters used for genome editing in plants and their impact on editing efficiency. While some of the important considerations while opting for a particular promoter depend on 1) Nature of the gene targeted, 2) Host organism, 3) Single or multiplex editing, 4) Size of construct, 5) Mode of transformation, and 6) Expected impact of editing on plant morphology and survival; the key benefits and limitations associated with different types of promoters used for engineering plant genomes have been elaborated.
+
+
+### Publication 3
+
+**Characterizing the Bidirectional Nature and Transcriptional Activity of Alternative Promoters Across Different Locations in a Gene**
+
+Apurva Mishra 1,2* , Helen Feng 2 , Dr. Ana Fiszbein 2 
+
+_1 Davis Senior High School, 315 W 14th St. #1914, Davis, CA 95616_
+_2 Fiszbein Lab, Boston University, Boston, MA 02215_
+_*Corresponding author: apurvagyan@gmail.com_
+
+In past research, promoters have been found to initiate RNA transcription bidirectionally, meaning that nascent RNA reads exist both in the downstream sense and upstream antisense directions. In addition to this, downstream and hybrid exons (exons that can be used as first and internal exons) have been found to have an increase in usage in comparison to upstream and first exons only (exons that can only be used as first exons), respectively. However, this behavior has been largely unexplored in alternative promoters, and is therefore of great interest for the advancement of the field, and the purpose of our study.
+
+Research Poster for Research in Science and Engineering (RISE) Program at Boston University
+<img src="docs/RISE_Research_Poster.png" alt="RISE Program Research Poster">
+
+A pdf version of my RISE Research Poster to open and reference can be found here: <a href="docs/RISE_Research_Poster.pdf" target="_blank">PDF.</a>
+
+
+### Publication 4
+
 **Genomic region analysis and genome editing for grain quality improvement in cereals**
 
 Sumit Jangra1, 2*, Priti1, 2, Vrantika Chaudhary2, Apurva Mishra3, Ram C. Yadav2, and Neelam R. Yadav2
@@ -45,30 +78,6 @@ _*Corresponding author Email: sumit.jangra712@gmail.com_
 **Abstract**
 
 Nutritional stress is affecting over two billion people worldwide. As the Mmajority of cereals we consume in our daily routine are deficient in micronutrients. To overcome this, researchers should emphasize grain quality improvement of cereals. Identification of genomic regions/ quantitative trait loci (QTLs) for and their successful introgression in elite cultivars through marker-assisted breeding (MAB) has been widely used by researchers to develop nutrient-rich varieties. Further, the advent of genome editing (GE) has revolutionized crop improvement. Unprecedented opportunities are offered by GE for specific and speedy improvement of crop plants. GE has also been used in cereals for improvement of various quality traits, however, recently the focus has been towards grain quality improvement. GE has been utilized to create specific mutations in the target gene or regulatory region to generate allelic variations which can be utilized for nutrient quality improvement. This chapter deals with various advancements made in cereal grain quality improvement using the identified QTLs and GE to attain nutrient security. In addition, it also highlights the merits and demerits of the different GE tools and the regulatory issues associated with the commercialization of genome-edited crop plants. 
-
-
-### Publication 3
-
-**Promoter selection for optimized CRISPR-Cas-mediated genome editing in plants**
-
-Rita Sharma (1), Apurva Mishra (2), Archit Gupta (1) and Farhanur Rahman (1)
-
-_1 Department of Biological Sciences, Birla Institute of Technology and Science (BITS), Pilani, Rajasthan, India_
-
-_2 Department of Microbiology and Molecular Genetics, Arsuaga-Vazquez Lab, UC Davis, One Shields Ave, Davis, CA-95616 USA, apurvagyan@gmail.com_
-
-**Abstract**
-
-CRISPR/Cas mediated editing has revolutionized the way we engineer plant genomes. Many studies have been carried out in the past few years towards optimization of the genome editing constructs. The choice of promoters used to drive gRNA and cas9 expression is critical to achieve high editing efficiency. We have collated the information about different types of promoters used for genome editing in plants and their impact on editing efficiency. While some of the important considerations while opting for a particular promoter depend on 1) Nature of the gene targeted, 2) Host organism, 3) Single or multiplex editing, 4) Size of construct, 5) Mode of transformation, and 6) Expected impact of editing on plant morphology and survival; the key benefits and limitations associated with different types of promoters used for engineering plant genomes have been elaborated.
-
-
-### Publication 4
-
-**Research Poster for Research in Science and Engineering (RISE) Program at Boston University**
-
-<img src="docs/RISE_Research_Poster.png" alt="RISE Program Research Poster">
-
-A pdf version of my RISE Research Poster to open and reference can be found here: <a href="docs/RISE_Research_Poster.pdf" target="_blank">PDF.</a>
 
 
 ## Thank you for your time and consideration!
