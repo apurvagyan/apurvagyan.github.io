@@ -31,6 +31,7 @@ Virulent fungal plant pathogens are a serious threat to crop productivity and ar
 ### Publication 2
 
 **Promoter selection for optimized CRISPR-Cas-mediated genome editing in plants**
+**Fronters in Genome Editing (to be published}**
 
 Rita Sharma (1), Apurva Mishra (2), Archit Gupta (1) and Farhanur Rahman (1)
 
@@ -65,6 +66,7 @@ A pdf version of my RISE Research Poster to open and reference can be found here
 ### Publication 4
 
 **Genomic region analysis and genome editing for grain quality improvement in cereals**
+**in book titled Principles and Practices of OMICs and Genome Editing for crop improvement.**
 
 Sumit Jangra1, 2*, Priti1, 2, Vrantika Chaudhary2, Apurva Mishra3, Ram C. Yadav2, and Neelam R. Yadav2
 
