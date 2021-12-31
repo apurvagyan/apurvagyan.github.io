@@ -12,8 +12,7 @@ The following certifications, in order, are include:
 1. Summer STEM Institute Data Science Bootcamp
 2. Mathematical Modeling in Biology from the Michigan Math and Science Scholars Program through University of Michigan, Ann Arbor
 3. Machine Learning from Stanford Online University through Coursera
-4. The abstract for a peer-reviewed paper pending publication
-5. The abstract for my ongoing research at a Topological Molecular Biology Laboratory in UC Davis, which was submitted and won regionally at the Sacramento Science Fair
+4. AP US History and Precalculus Courses from Apex Learning Virtual School
 
 ## Summer STEM Institute Data Science Bootcamp
 
