@@ -8,7 +8,7 @@ filename: index
 
 ## Overview of Additional Information
 
-The following page contains the additional information for the Commmon Application that I would like to share. This includes:
+The following page contains the additional information about my research work and interests that I would like to share. This includes:
 1. The abstract for a published, peer-reviewed research publication
 2. The abstract for a research paper in the process of review for publication
 3. My research project and poster from the Research in Science and Engineering (RISE) Program at Boston University
@@ -100,4 +100,4 @@ The SARS-CoV-2 virus responsible for the COVID-19 pandemic has caused over 3.4 m
 
 
 
-## Thank you for your time and consideration!
+## Thank you for your time and interest!
